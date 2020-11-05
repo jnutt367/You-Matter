@@ -1,8 +1,8 @@
 header {
 	text-align: center; 
-	height: 700px;
+	height: 450px;
 	width: 100%;
-	background-image: url('../images/walking-away.webp');
+	background-image: url('../images/youMatter.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	position: relative;
@@ -13,6 +13,10 @@ ul li {
 	list-style: none;
 	display: flex;
 	flex-direction: flex-start;
+}
+ul li a {
+	text-decoration: none;
+	color: grey;
 }
 header h1 {
 	padding-top: 200px;
