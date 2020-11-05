@@ -1,0 +1,24 @@
+header {
+	text-align: center; 
+	height: 500px;
+	width: 100%;
+	background: linear-gradient(grey, silver);
+	position: relative;
+	color: white;
+}
+header h1 {
+	padding-top: 200px;
+	display: grid;
+	justify-content: center;
+	align-items: center;
+}
+body {
+	text-align: center;
+}
+footer {
+	display: grid;
+	justify-content: center;
+	align-items: center;
+	background: linear-gradient(grey, silver);
+	height:400px;
+}
