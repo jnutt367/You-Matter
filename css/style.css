@@ -1,12 +1,18 @@
 header {
 	text-align: center; 
-	height: 500px;
+	height: 700px;
 	width: 100%;
 	background-image: url('../images/walking-away.webp');
 	background-repeat: no-repeat;
 	background-size: cover;
 	position: relative;
-	color: white;
+	color: grey;
+}
+ul li {
+	padding-top: 1em;
+	list-style: none;
+	display: flex;
+	flex-direction: flex-start;
 }
 header h1 {
 	padding-top: 200px;
@@ -16,6 +22,10 @@ header h1 {
 }
 body {
 	text-align: center;
+}
+img {
+	text-align: center;
+	max-width: 450px;
 }
 footer {
 	display: grid;
