@@ -1,7 +1,7 @@
 header {
 	text-align: center; 
 	height: 900px;
-	background-image: url('../images/moutainClimbingMatters.jpg');
+	background-image: url('../images/Military-woman-saluting.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	position: relative;
@@ -9,9 +9,7 @@ header {
 	font-family: 'Syne Tactile', cursive;
 	font-size: 1em;
 }
-.logo {
-	
-}
+
 
 
 ul li {
@@ -34,6 +32,35 @@ header h1 {
 	justify-content: center;
 	align-items: center;
 }
+.main  {
+	background-image: url('../images/moutainClimbingMatters.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: green;
+}
+ 
+.article {
+	height: 600px;
+	background-image: url('../images/hoping.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+.aside {
+	background-image: url('../images/soldiersbene.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+	color: white;
+}
+.footer {
+	
+	background-image: url('../images/cares.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
 body {
 	text-align: center;
 
