@@ -36,6 +36,9 @@ header{
 	color: blue;
 }
 .main  {
+	text-align: left;
+	padding-left: 15px;
+	padding-right: 100px;
 	height: 600px;
 	background-image: url('../images/moutainClimbingMatters.jpg');
 	background-repeat: no-repeat;
@@ -44,6 +47,9 @@ header{
 }
  
 .article {
+	text-align: leftt;
+	padding-right: 250px;
+	padding-left: 20px;
 	height: 600px;
 	background-image: url('../images/hoping.jpg');
 	background-repeat: no-repeat;
@@ -51,6 +57,9 @@ header{
 	color: white;
 }
 .aside {
+	text-align: left;
+	padding-right: 150px;
+	padding-left: 25px;
 	background-image: url('../images/soldiersbene.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -59,12 +68,15 @@ header{
 }
 .footer {
 	
-	background-image: url('../images/cares.jpg');
-	background-repeat: no-repeat;
+	background-image: url('../images/combatStress.jpg');
+	background-repeat: no repeat;
 	background-size: cover;
 	
 }
-
+footer img {
+	height: 200px;
+	width: 200px;
+}
 body {
 	text-align: center;
 
