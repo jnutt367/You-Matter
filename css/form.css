@@ -1,0 +1,11 @@
+html {
+	background-image: url('../images/bigstock-PTSD.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	
+}
+
+input{
+	margin-top: 10px;
+}
