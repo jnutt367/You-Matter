@@ -68,9 +68,10 @@ header{
 }
 .footer {
 	
-	background-image: url('../images/ptsd-infographic-2.jpg');
+	background-image: url('../images/YouMatter.jpg');
 	background-repeat: no repeat;
 	background-size: cover;
+	height:100vh;
 }
 
 body {
@@ -83,8 +84,4 @@ img {
 }
 footer {
 	display: grid;
-	justify-content: center;
-	align-items: center;
-	background: linear-gradient(grey, silver);
-	height:400px;
 }
