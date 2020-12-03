@@ -1,7 +1,7 @@
 header {
 	text-align: center; 
 	height: 900px;
-	background-image: url('../images/MilitaryPTSD.jpg');
+	background-image: url('../images/YouMatter.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	position: relative;
@@ -33,7 +33,7 @@ header h1 {
 	align-items: center;
 }
 header{
-	color: blue;
+	color: white;
 }
 .main  {
 	text-align: left;
@@ -68,7 +68,7 @@ header{
 }
 .footer {
 	
-	background-image: url('../images/YouMatter.jpg');
+	background-image: url('../images/MilitaryPTSD.jpg');
 	background-repeat: no repeat;
 	background-size: cover;
 	height:100vh;
