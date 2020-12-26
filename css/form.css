@@ -1,4 +1,4 @@
-html {
+body {
 	color: white;
 	background-image: url('../images/substance-abust-1800x1200.jpg');
 	background-repeat: no-repeat;
@@ -10,4 +10,5 @@ html {
 input{
         Padding: 25px;
 	margin-top: 10px;
+        font-size: 50px;
 }
