@@ -1,13 +1,13 @@
 header {
 	text-align: center; 
-	height: 900px;
+	height: 2000px;
 	background-image: url('../images/YouMatter.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	position: relative;
 	color: white;
 	font-family: 'Syne Tactile', cursive;
-	font-size: 1em;
+	font-size: 50px;
 }
 
 
