@@ -1,4 +1,5 @@
 body {
+        font-size: 50px;
 	color: white;
 	background-image: url('../images/substance-abust-1800x1200.jpg');
 	background-repeat: no-repeat;
@@ -8,11 +9,11 @@ body {
 }
 
 input{
+        height: 50px;
         Padding: 25px;
 	margin-top: 10px;
-        font-size: 50px;
 }
 img {
-       height: 700px;
+       height: 900px;
        Width: 100%;
 }
