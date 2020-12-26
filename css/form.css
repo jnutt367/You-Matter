@@ -3,10 +3,11 @@ html {
 	background-image: url('../images/substance-abust-1800x1200.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
-	height: 900px;
+	height: 2000px;
 	text-align: center;
 }
 
 input{
+        Padding: 25px;
 	margin-top: 10px;
 }
