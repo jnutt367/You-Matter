@@ -1,4 +1,5 @@
 header {
+        font-size: 50px;
 	text-align: center; 
 	height: 2000px;
 	background-image: url('../images/YouMatter.jpg');
@@ -7,7 +8,6 @@ header {
 	position: relative;
 	color: white;
 	font-family: 'Syne Tactile', cursive;
-	font-size: 50px;
 }
 
 
