@@ -1,5 +1,6 @@
 body {
                 height: 2000px;
+                max-width: 600px;
 		color: black;
 		text-align: center;
 		background-image: url('../images/ptsdGraph.jpg');
