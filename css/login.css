@@ -1,7 +1,9 @@
 body {
+                height: 2000px;
 		color: black;
 		text-align: center;
 		background-image: url('../images/ptsdGraph.jpg');
 		background-repeat: no-repeat;
 		background-size: cover;
+                font-size: 50px;
 	}
